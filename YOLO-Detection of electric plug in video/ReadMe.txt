@@ -21,19 +21,13 @@ Class names:
 "classes.txt"
 
 Python file for Training:
-"plug_detection_training_sourabh_sugandhi.py"
+"plug_detection_training.py"
 
 Python file for Testing
-"plug_detection_sourabh_sugandhi.py"
+"plug_detection_testing.py"
 
 Input file:
 https://www.dropbox.com/s/8txhaun2bmlsm0v/plug.mov?dl=0
 
 Labelling Tool:
 "LabelImg"
-
-Dataset used:
-"images.zip"
-
-Output file:
-"output_plug_detection_sourabh_sugandi.avi"
