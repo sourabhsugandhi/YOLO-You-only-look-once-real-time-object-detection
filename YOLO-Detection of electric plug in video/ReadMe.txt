@@ -15,8 +15,7 @@ Weights file:
 yolov3_training_final.weights 
 
 Please Download weights file from my google drive link
-(https://drive.google.com/file/d/1-C9lCQhVtBCbxVV96_oiE5qtiBu9jdSS/view?usp=sharing)
-Access given to --> sangeethms@visionintelligence.com, prudraradhya@valuechain.com
+https://pjreddie.com/media/files/darknet53.conv.74
 
 Class names:
 "classes.txt"
